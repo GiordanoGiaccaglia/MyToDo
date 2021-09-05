@@ -14,6 +14,8 @@ Simple application to learn more about different Delphi language constructs and 
  - Runtime components
  - VCL Components
 	 - TFrame
+	 - TEdit
+	 - TLabel
 	 - TButton/TBitBtn
 	 - TPanel and TScrollBox
 

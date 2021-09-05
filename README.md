@@ -1,6 +1,6 @@
 
 # MyToDo
-Simple sample application to learn more about different Delphi language constructs and interactions with Fireac components
+Simple application to learn more about different Delphi language constructs and interactions with Fireac components
 
 ## Topics addressed
 
